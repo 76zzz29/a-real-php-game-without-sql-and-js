@@ -3,7 +3,7 @@
 //	donc sans aucune mise en page ni réel contenu, juste un chemas.
 //	vous pourez voire que c'est un jeux a héberger a la racine du siteavec des fichier se trouvant dans un docier 'data'
 //	qui se situe au meme niveau que la racine du site donc il ne poura pas etre héberger sur un hébergeur 'clasic'
-//	en  incluants uniquement 1-3, 2-3 et 3-3 normalement on a une page de base sans vide et sans erreur avec la mise en page 
+//	en  incluants uniquement 1-3, 2-3 et 3-3 normalement on a une page de base vide sans contenus et sans erreur avec la mise en page 
 
 //	include($_SERVER["DOCUMENT_ROOT"] . "/../data/base/1-3");	//	tout le début de l'html est la dedan mais la balise
 //																														//	head reste ouverte
