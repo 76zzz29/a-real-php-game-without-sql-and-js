@@ -1,6 +1,0 @@
-		</div>
-		<div id="pied">
-			<p>base du jeux cr&eacute;er par 76zzz29, mais le contenu (images,dialogues,...) est de <?php echo $nomduproprietaire; ?></p>
-		</div>
-	</body>
-</html>
