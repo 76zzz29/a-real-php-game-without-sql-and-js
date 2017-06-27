@@ -2,8 +2,8 @@
 	</head>
 	<body>
 		<div id="tete" >
-		  <h1><img src="/images/title.jpg" alt="[?][titre]" height="[?]" width="[?]" /></h1>
-		  <p id="soutitre">[?][complement du titre]</p>
+		  <h1><img src="/images/title.jpg" alt="<?php echo $titre; ?>" height="<?php echo $titrepicheight; ?>" width="<?php echo $titrepicwidth; ?>" /></h1>
+		  <p id="soutitre"><?php echo $soustitre; ?></p>
 			 <div id="menu" >
 			  <ul class="hmenu">
 				  <li><a href="/" title="Home">Home</a></li>
