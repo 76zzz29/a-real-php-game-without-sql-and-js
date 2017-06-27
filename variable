@@ -1,0 +1,7 @@
+<?php
+$titre="le jeux";
+$titrepicheight="60px";
+$titrepicwidth="468px";
+$soustitre="sous-titre du jeux";
+$nomduproprietaire="votre nom ici";
+?>
