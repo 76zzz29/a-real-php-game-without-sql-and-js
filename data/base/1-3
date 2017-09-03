@@ -3,4 +3,4 @@
 	<head>
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 		<title><?php echo $titre; ?></title>
-		<link href="/css/css.css" rel="stylesheet" type="text/css">
+		<link href="/CSS/CSS.css" rel="stylesheet" type="text/css">
