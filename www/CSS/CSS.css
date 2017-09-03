@@ -1,0 +1,14 @@
+.hmenu{
+    text-align: center;
+    list-style-type: none;
+}
+.hmenu li {
+    position: relative;
+    display: inline-block;
+}
+h1{
+    text-align: center;
+}
+#soutitre{
+    text-align: center;
+}
